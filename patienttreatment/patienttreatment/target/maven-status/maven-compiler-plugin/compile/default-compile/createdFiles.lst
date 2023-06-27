@@ -1,0 +1,17 @@
+com\dal\patienttreatment\config\patienttreatmentSecurityConfig.class
+com\dal\patienttreatment\repository\TreatmentRepo.class
+com\dal\patienttreatment\repository\DrugRepo.class
+com\dal\patienttreatment\repository\DiseaseRepo.class
+com\dal\patienttreatment\service\patienttreatmentService.class
+com\dal\patienttreatment\entity\TreatmentEntity.class
+com\dal\patienttreatment\entity\TreatmentDrug.class
+com\dal\patienttreatment\repository\PatientRepo.class
+com\dal\patienttreatment\entity\PatientEntity.class
+com\dal\patienttreatment\PatienttreatmentApplication.class
+com\dal\patienttreatment\entity\DrugEntity.class
+com\dal\patienttreatment\repository\TreatmentDrug.class
+com\dal\patienttreatment\controller\patienttreatmentRestController.class
+com\dal\patienttreatment\entity\DiseaseEntity.class
+com\dal\patienttreatment\service\patienttreatmentServiceImpl.class
+com\dal\patienttreatment\entity\TreatmentDisease.class
+com\dal\patienttreatment\repository\TreatmentDisease.class
